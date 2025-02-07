@@ -121,17 +121,6 @@ GROUP BY shift;
 - **Product Performance**: Understanding which product categories generate the most sales.
 - **High-Value Transactions**: Spotting premium purchases and customer preferences.
 
-## How to Use
 
-1. **Clone the Repository**: Clone this project from GitHub.
-2. **Set Up the Database**: Execute the SQL scripts to create and populate the database.
-3. **Run Queries**: Use the provided SQL queries to analyze the dataset.
-4. **Customize & Expand**: Modify queries or add new ones to explore different insights.
 
-## Author
 
-This project is a part of my SQL portfolio, demonstrating proficiency in data analysis and business intelligence. If you have any questions or feedback, feel free to reach out.
-
----
-
-This **Retail Sales Analysis SQL Project** serves as an excellent foundation for learning SQL data analysis and gaining hands-on experience with real-world datasets.
